@@ -1,0 +1,50 @@
+
+/* 
+My first CSS
+ */
+header {
+	width: 50%;
+	height: 300px;
+	background: #c3f2c2;
+	display: table-cell;
+
+}
+body {
+	/*display: table;*/
+}
+h1{
+	font-family: Edo SZ;
+	font-size: 250%
+
+}
+nav {
+	font-family: Tahoma;
+	font-variant: small-caps;
+	background: #E6C545;
+	clear: both;
+}
+h3{
+	color:#246023a6;
+	font-family: Edo SZ;
+	
+	 
+}
+h2{
+	color:#777;
+}
+body, footer{
+	font-family: Tahoma;
+}
+
+figcaption {
+	font-style: italic;
+}
+
+footer {
+	background: #c3f2c2;
+	text-align: center;
+}
+
+figure {
+	clear: both;
+}
