@@ -7,10 +7,16 @@ header {
 	height: 300px;
 	background: #c3f2c2;
 	display: table-cell;
+	border: solid;
+	border-width: 5px;
+	margin: 50%;
+	
 
 }
 body {
 	/*display: table;*/
+
+
 }
 h1{
 	font-family: Tahoma;
@@ -34,15 +40,21 @@ h2{
 }
 body, footer{
 	font-family: Tahoma;
+
 }
 
 figcaption {
 	font-style: italic;
 }
 
+main {
+	border: dotted 2px;
+
+}
 footer {
 	background: #c3f2c2;
 	text-align: center;
+	border: dashed 2px;
 }
 
 figure {
